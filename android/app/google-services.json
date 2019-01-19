@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "965591166072",
+    "firebase_url": "https://dnd-coin-balancer.firebaseio.com",
+    "project_id": "dnd-coin-balancer",
+    "storage_bucket": "dnd-coin-balancer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965591166072:android:1c0cdd7080db29a3",
+        "android_client_info": {
+          "package_name": "bitesizepies.dndcoinbalancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965591166072-bqcmvqh2k77kfphaev74m80577mos9g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bitesizepies.dndcoinbalancer",
+            "certificate_hash": "3dfe046e387d8354b7f9abe96e902c484c5f095f"
+          }
+        },
+        {
+          "client_id": "965591166072-sm08putt8s5140agf9ehoq4tsti14u09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwClUp-qZHa9l1r271dS3OhzEVOUYpcOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965591166072-sm08putt8s5140agf9ehoq4tsti14u09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965591166072-g8b6gk3smkjnf1dbq5k95quprkrkh5il.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bitesizepies.dndCoinBalancer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
